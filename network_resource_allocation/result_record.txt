@@ -1,0 +1,203 @@
+T =  5000
+offline optimal obj:  602539797.9100121
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  676613895.8558359 regret:  74074097.94582379  violation:  0.0 capacity:  1118796.381467156 relative regret:  0.12293644038577933 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  648090453.3504342 regret:  45550655.44042206  violation:  0.0 capacity:  11187.963814671553 relative regret:  0.07559775403785851 relative violation:  0.0
+
+
+
+T =  10000
+offline optimal obj:  1202481498.888351
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  1336022950.7967894 regret:  133541451.90843844  violation:  0.0 capacity:  2232684.48753536 relative regret:  0.11105489109969047 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  1277297704.7098484 regret:  74816205.82149744  violation:  0.0 capacity:  22326.844875353585 relative regret:  0.06221817623860515 relative violation:  0.0
+
+
+T =  20000
+offline optimal obj:  2413738569.120303
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  2663677732.4181204 regret:  249939163.29781723  violation:  0.0 capacity:  4472978.338560419 relative regret:  0.10354856424608916 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  2540439904.5643616 regret:  126701335.44405842  violation:  0.0 capacity:  44729.7833856041 relative regret:  0.05249173919039429 relative violation:  0.0
+
+
+T =  30000
+offline optimal obj:  3623256733.5955963
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  3990131259.284454 regret:  366874525.68885756  violation:  0.0 capacity:  6711617.702065855 relative regret:  0.10125545956683668 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  3794008553.0050015 regret:  170751819.40940523  violation:  0.0 capacity:  67116.17702065881 relative regret:  0.04712661342105817 relative violation:  0.0
+
+
+
+T =  40000
+offline optimal obj:  4833138345.366659
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  5316449962.335471 regret:  483311616.968812  violation:  0.0 capacity:  8950214.683468511 relative regret:  0.09999954117434773 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  5044561341.874915 regret:  211422996.50825596  violation:  0.0 capacity:  89502.14683468475 relative regret:  0.043744453686275886 relative violation:  0.0
+
+
+T =  50000
+offline optimal obj:  6047980460.834561
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  6639233690.843191 regret:  591253230.0086298  violation:  0.0 capacity:  11191321.471847974 relative regret:  0.09776043984226801 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  6295820567.063261 regret:  247840106.22869968  violation:  301.8012997457014 capacity:  111913.21471848049 relative regret:  0.040978985933182166 relative violation:  0.0026967440842878784
+
+
+T =  60000
+offline optimal obj:  7258478871.669255
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  7957844949.14786 regret:  699366077.4786043  violation:  0.0 capacity:  13430674.224480905 relative regret:  0.09635160339287019 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  7540737712.945371 regret:  282258841.2761154  violation:  887.6689531411142 capacity:  134306.74224481024 relative regret:  0.038886775902566395 relative violation:  0.006609265762124572
+
+
+T =  70000
+offline optimal obj:  8466476121.052326
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  9276867655.671696 regret:  810391534.6193695  violation:  0.0 capacity:  15666421.742340023 relative regret:  0.09571768974866535 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  8781445632.730371 regret:  314969511.6780453  violation:  1103.9179536445183 capacity:  156664.21742339965 relative regret:  0.03720196067108228 relative violation:  0.0070463949700848225
+
+
+T =  80000
+offline optimal obj:  9672944755.800076
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  10592016150.933352 regret:  919071395.133276  violation:  0.0 capacity:  17901971.81513897 relative regret:  0.09501464324834319 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  10018479846.5766 regret:  345535090.7765236  violation:  1952.4243749021468 capacity:  179019.71815138985 relative regret:  0.03572180959364357 relative violation:  0.010906197345540781
+
+
+T =  90000
+offline optimal obj:  10880262117.837618
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  11906449866.187155 regret:  1026187748.3495369  violation:  0.0 capacity:  20138276.836999502 relative regret:  0.09431645462540428 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  11255752625.53685 regret:  375490507.6992321  violation:  2202.777772230191 capacity:  201382.7683699945 relative regret:  0.03451116375989094 relative violation:  0.010938263437629846
+
+
+T =  100000
+offline optimal obj:  12082038023.993359
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  13215756104.712555 regret:  1133718080.7191963  violation:  0.0 capacity:  22365844.82697719 relative regret:  0.09383500353729879 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  12485937342.49764 regret:  403899318.504282  violation:  2434.3393717436857 capacity:  223658.4482697723 relative regret:  0.03342973409802141 relative violation:  0.010884182513899205
+
+
+T =  110000
+offline optimal obj:  13283162687.092628
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  14525600835.220074 regret:  1242438148.1274452  violation:  0.0 capacity:  24594876.377293665 relative regret:  0.09353481376349726 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  13714020652.461802 regret:  430857965.36917305  violation:  2387.600188345288 capacity:  245948.7637729366 relative regret:  0.03243639903528717 relative violation:  0.00970771371938895
+
+
+T =  120000
+offline optimal obj:  14488337856.43954
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  15836936028.62233 regret:  1348598172.1827888  violation:  0.0 capacity:  26828826.22994376 relative regret:  0.09308163472895448 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  14945508345.444103 regret:  457170489.0045624  violation:  2677.9319723704352 capacity:  268288.2622994358 relative regret:  0.03155437797865579 relative violation:  0.009981547270903722
+
+
+T =  130000
+offline optimal obj:  15693128978.341494
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  17152971878.24673 regret:  1459842899.9052372  violation:  0.0 capacity:  29061863.88974036 relative regret:  0.09302433580454261 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  16175557269.438915 regret:  482428291.09742165  violation:  2718.71715812708 capacity:  290618.63889740163 relative regret:  0.03074137042799019 relative violation:  0.009354930462966213
+
+
+T =  140000
+offline optimal obj:  16899838046.721807
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  18466570277.988842 regret:  1566732231.2670345  violation:  0.0 capacity:  31295652.898280103 relative regret:  0.09270693760115334 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  17408070197.266914 regret:  508232150.5451069  violation:  2892.9402991578795 capacity:  312956.5289828006 relative regret:  0.03007319650874951 relative violation:  0.009243904604133915
+
+T =  150000
+offline optimal obj:  18115751563.36478
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  19787704762.04966 regret:  1671953198.6848793  violation:  0.0 capacity:  33539313.891630415 relative regret:  0.09229278690628795 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  18646728901.585323 regret:  530977338.2205429  violation:  3316.930949648945 capacity:  335393.13891630253 relative regret:  0.029310257229091752 relative violation:  0.00988968039228938
+
+
+T =  160000
+offline optimal obj:  19327254550.742847
+==============================
+   decentralized QP by MOSP
+==============================
+MOSP obj:  21104881364.492474 regret:  1777626813.7496262  violation:  0.0 capacity:  35779843.774105355 relative regret:  0.09197513330631346 relative violation:  0.0
+==============================
+ decentralized QP by ODC-ADMM
+==============================
+ODC-ADMM obj:  19882415117.94136 regret:  555160567.198513  violation:  3407.4684173959804 capacity:  357798.4377410532 relative regret:  0.02872423321899986 relative violation:  0.009523430115874464
